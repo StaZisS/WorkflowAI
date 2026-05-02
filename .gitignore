@@ -1,0 +1,15 @@
+# Rust build output
+/target/
+
+# IDE/editor state
+/.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS/filesystem noise
+.DS_Store
+Thumbs.db
+
+# Accidental Windows device-name artifacts under WSL
+/NUL
